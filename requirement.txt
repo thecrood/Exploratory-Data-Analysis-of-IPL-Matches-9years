@@ -1,0 +1,9 @@
+-1) max wickets in a season
+-2) max runs in a season
+-3) max six in a season
+-4) max four in a season
+-5) matches in each stadium
+-6) season wise winner
+-7) man of the match in each season
+-8) man of the match in each season (max)
+
