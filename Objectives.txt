@@ -1,4 +1,6 @@
-Max wickets in a seaso-2) max runs in a season
+Objectives:  
+
+Max wickets in a season and max runs in a season
 Max six in a season
 Max four in a season
 Matches in each stadium
