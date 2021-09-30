@@ -1,9 +1,16 @@
--1) max wickets in a season
--2) max runs in a season
--3) max six in a season
--4) max four in a season
--5) matches in each stadium
--6) season wise winner
--7) man of the match in each season
--8) man of the match in each season (max)
+Max wickets in a seaso-2) max runs in a season
+Max six in a season
+Max four in a season
+Matches in each stadium
+Season wise winner
+Man of the match in each season
+Man of the match in each season (max)
+To find the team that won the most number of matches in a season.
+To find the team that lost the most number of matches in a season.
+Does winning toss increases the chances of victory.
+To find the player with the most player of the match awards.
+To find the city that hosted the maximum number of IPL matches.
+To find the most winning team for each season.
+To find the on-field umpire with the maximum number of IPL matches.
+To find the biggest victories in IPL while defending a total and while chasing a total.
 
